@@ -1,0 +1,24 @@
+Super-Admin
+---------
+Drones
+Drone Models
+Users
+Location 
+---------
+DRONES MODELS
+- type 
+- image
+- name
+
+CRUD - Create, Read, Update, Delete
+-----------
+
+Drone
+
+modelId 
+price 
+status
+
+---------
+
+
